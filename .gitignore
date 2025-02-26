@@ -1,0 +1,12 @@
+# Ignore sensitive data files
+snandvpn.conf
+snandvpn.txt
+
+# Ignore local environment configuration
+.env
+/.obsidian/**
+
+# Additionally, ignore common file types that should not be committed
+*.log
+*.tmp
+*.bak
