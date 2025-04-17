@@ -10,3 +10,4 @@ snandvpn.txt
 *.log
 *.tmp
 *.bak
+*.ovpn
